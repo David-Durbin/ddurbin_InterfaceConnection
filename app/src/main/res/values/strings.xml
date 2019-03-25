@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ddurbin_InterfaceConnection</string>
+    <string name="txt_bio">David is a usually very relaxed computer nerd who enjoys mucking about
+    with technology. He teaches basic computer skills and programming at MCC. And in his free time
+    enjoys reading science fiction and fantasy novels.</string>
+    <string name="txt_header">David</string>
+    <string name="txt_caption">A picture of David.</string>
+    <string name="btn_txt">View Profile</string>
+</resources>
